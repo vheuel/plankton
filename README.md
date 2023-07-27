@@ -1,2 +1,2 @@
-# plankton
-Plankton! is Front-end Framework
+# Plankton!
+Plankton! Front-end Framework (PFE Framework)
